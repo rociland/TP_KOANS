@@ -1,0 +1,21 @@
+{
+  "main": "topics/about_asserts.js",
+  "name": "javascript-koans",
+  "description": "Update ======",
+  "version": "1.0.0",
+  "scripts": {
+    "koans": "node ./index.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rociland/TP_KOANS.git"
+  },
+  "keywords": [
+    "javascript",
+    "koans"
+  ],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/rociland/TP_KOANS.git"
+}
